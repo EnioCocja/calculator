@@ -5,6 +5,7 @@ public class Main {
         System.out.println(add(2, 3));
         System.out.println(subtract(2, 3));
         System.out.println(multiply(2, 3));
+        System.out.println(divide(2, 3));
     }
 
     public static double add(double x, double y) {
