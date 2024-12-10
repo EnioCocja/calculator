@@ -2,8 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-
+        System.out.println(add(2, 3));
     }
 
     public static double add(double x, double y) {
@@ -21,11 +20,4 @@ public class Main {
     public static double divide(double x, double y) {
         return x / y;
     }
-
-
-
-
-
-
-
 }
