@@ -18,6 +18,10 @@ public class Main {
         return x * y;
     }
 
+    public static double divide(double x, double y) {
+        return x / y;
+    }
+
 
 
 
